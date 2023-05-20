@@ -1,0 +1,12 @@
+.container {
+  display: block;
+  background-color: #00ffff;
+}
+.text-center {
+  text-align: center;
+}
+
+.row {
+  margin-right: -15px;
+  margin-left: -15px;
+}
